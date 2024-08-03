@@ -28,4 +28,5 @@ class Solution {
         } while (front != back); 
         return true; 
     } 
+}
   
